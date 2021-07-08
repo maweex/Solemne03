@@ -1,6 +1,8 @@
-Hola profesor, no le he dedicado mucho a git, entonces aun no me manejo bien.
-Por eso le dejo este documento con los links de cada carpeta del trabajo ya que github solo admite 100.
+Hola profesor, disculpe tener que entregarle el trabajo así, no entiendo cómo usar git y github, y no me di el tiempo para dedicarme a aprender a utilizarlo.
+Fui subiendo las carpetas del trabajo en repositorios distintos, le adjunto los links de cada carpeta porque solo me acepta subir max 100 files por repositorio.
 
-flask_docker
 
+flask_docker:
+   https://github.com/maweex/flask_docker
+   
 flask_app
