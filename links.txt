@@ -1,0 +1,6 @@
+Hola profesor, no le he dedicado mucho a git, entonces aun no me manejo bien.
+Por eso le dejo este documento con los links de cada carpeta del trabajo ya que github solo admite 100.
+
+flask_docker
+
+flask_app
