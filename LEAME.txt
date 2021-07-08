@@ -1,0 +1,4 @@
+Hola profesor, disculpe tener que entregarle el trabajo así, no entiendo cómo usar git y github, y no me di el tiempo para dedicarme a aprender a utilizarlo.
+No sabia exactamente qué carpetas subir, dejé _pycache_ postgres-data y VENV afuera, porque eran demasiados archivos. No sé exactamente que tan necesario era la carpeta venv.
+
+
